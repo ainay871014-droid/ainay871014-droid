@@ -18,6 +18,10 @@ LangGraph · LLM API 集成（OpenAI 兼容接口）· Agent Loop · Skills · C
 
 FFmpeg · TTS（CosyVoice、Edge TTS）· 视频剪辑与合成
 
+**嵌入式开发**
+
+STM32 · ESP32 · Arduino · 树莓派 · 嵌入式 Linux
+
 **硬件与运维**
 
 GPU 服务器（RTX 5090 / 3060）· Docker · Linux · Tailscale 组网 · Nginx
