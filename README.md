@@ -22,9 +22,13 @@ FFmpeg · TTS（CosyVoice、Edge TTS）· 视频剪辑与合成
 
 STM32 · ESP32 · Arduino · 树莓派 · 嵌入式 Linux
 
-**硬件与运维**
+**硬件与基础设施**
 
-GPU 服务器（RTX 5090 / 3060）· Docker · Linux · Tailscale 组网 · Nginx
+GPU 算力服务器搭建与运维 · 模型推理网关部署
+
+**运维与部署**
+
+Docker 容器化部署 · Linux 服务器管理 · Nginx 反向代理 · Tailscale 异地组网
 
 ## 代表项目
 
